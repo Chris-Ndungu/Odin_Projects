@@ -18,7 +18,10 @@ The Foundations course teaches on;
 - HTML
 - CSS
 
-[2. Landing Page](#emphasis)
+[2. Landing Page](./Landing-Page/)
+
+- HTML
+- CSS
 
 [3. Calculator]()
 
