@@ -23,7 +23,10 @@ The Foundations course teaches on;
 - HTML
 - CSS
 
-[3. Calculator]()
+[3. Rock Paper Scissors Game](./rock-paper-scissors/)
+
+- HTML
+- JS
 
 <a name="headers">
 
